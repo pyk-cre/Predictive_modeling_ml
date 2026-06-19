@@ -1,27 +1,17 @@
-# Predictive_modeling_ml
-# Predictive Modeling Using Machine Learning
+PREDICTIVE_MODELING_ipynb
 
-## Project Overview
-This project predicts Iris flower species using a Decision Tree Classifier.
+https://share.google/390Vgu8UrFMMJScnE
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+README.me
 
-## Steps
-1. Load dataset
-2. Data preprocessing
-3. Train model
-4. Predict results
-5. Evaluate accuracy
-6. Generate confusion matrix
-7. Visualize feature importance
+https://in.docworkspace.com/d/sbCaekxMnS3PtM8q_pi3gpyr4p23wtq30hm
 
-## Accuracy
-100%
+https://kso.page.link/wps
 
-## Author
-Priyanka P
+CONFUSION_MATRIX.PNG
+
+https://share.google/OQRZt7RbWmpOlXW2K
+
+FEATURE_IMPORTANCE.PNG
+
+https://share.google/ivzJ6NwHpSEYJnWwD
